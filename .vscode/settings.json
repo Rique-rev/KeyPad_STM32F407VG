@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "hal_gpiox.h": "c",
+        "hal_keypad_4x4.h": "c"
+    }
+}
